@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Gaze Detection Project and venturing Deep Learning
+- 🔭 I’m currently working on a Drone Detection Project and venturing Deep Learning
 - 📖 Master's: University of North Carolina Charlotte (UNC Charlotte)
 - 📖 Bachelor's: Bangladesh University of Engineering and Technology (BUET)
 - 📍 Charlotte, NC, USA
