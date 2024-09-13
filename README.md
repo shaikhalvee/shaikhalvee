@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Drone Detection Project and venturing Deep Learning
+- 📖 PhD: University of Texas Arlington (UTA)
 - 📖 Master's: University of North Carolina Charlotte (UNC Charlotte)
 - 📖 Bachelor's: Bangladesh University of Engineering and Technology (BUET)
-- 📍 Charlotte, NC, USA
+- 📍 Arlington, TX, USA
 - 📫 How to reach me: shaikhalvee@gmail.com
 
