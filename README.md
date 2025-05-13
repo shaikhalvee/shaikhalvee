@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - My ID: 10582892
 -->
 
-- 🔭 I’m currently working on a Drone Detection Project and venturing Deep Learning
-- 📖 PhD: University of Texas Arlington (UTA)
-- 📖 Master's: University of North Carolina Charlotte (UNC Charlotte)
-- 📖 Bachelor's: Bangladesh University of Engineering and Technology (BUET)
+- 🔭 I’m currently working on a Drone Detection Project and venturing into Deep Learning
+- 📖 **PhD**: University of Texas Arlington (UTA) (ongoing)
+- 📖 **Master's**: University of North Carolina Charlotte (UNC Charlotte)
+- 📖 **Bachelor's**: Bangladesh University of Engineering and Technology (BUET)
 - 📍 Arlington, TX, USA
 - 📫 How to reach me: shaikhalvee@gmail.com
 
